@@ -1,8 +1,8 @@
-#My Portfolio Website 🌐
+My Portfolio Website 🌐
 
 Welcome to my personal portfolio website! This project showcases my skills, education, experience, and projects. It is built using HTML, CSS, and JavaScript. Explore the various sections below to get to know me better!
 
-#📋 Features
+📋 Features
 1. Home: Displays my name, contact details, and a resume download link.
 2. About Me: This provides insights into my journey as a developer and includes a button to show my certifications.
 3. Education: Highlights my academic qualifications and achievements.
@@ -11,7 +11,12 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 6. Projects: Details of the projects I’ve worked on.
 7. Contact: Allows visitors to send me messages through a Google form.
 
-#🖼️ Screenshots
+🖼️ Screenshots
 A preview of my portfolio website.
 
-#Home Screenshot
+Link: 
+
+Screenshot
+![image](https://github.com/user-attachments/assets/dd8fa2b2-656e-42f0-9c6b-7c991ee8814c)
+
+
